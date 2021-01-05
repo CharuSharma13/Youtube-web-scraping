@@ -200,7 +200,7 @@ def build_service():
 
     
 
-st.sidebar.write("Some Features")
+
 build_service()
 r1=st.sidebar.radio("Include Author --> {}".format(Author[0]),["Yes","No"])
 r2=st.sidebar.radio("Time Period",["This Year","This Month"])
