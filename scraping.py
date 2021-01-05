@@ -58,7 +58,7 @@ def leaderboard(df,x1,x2,x3):
 	ax.set_ylabel("Author", size=16)
 	ax.spines['top'].set_visible(False)
 	ax.spines['right'].set_visible(False)
-	st.set_option('deprecation.showPyplotGlobalUse', False)
+	#st.set_option('deprecation.showPyplotGlobalUse', False)
 	st.pyplot()
 
 def leaderboard_comments_counts(r1):
