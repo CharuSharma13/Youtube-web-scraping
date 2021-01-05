@@ -1,0 +1,5 @@
+urllib3==1.26.2
+pandas==1.2.0
+google-api-python-client==1.12.8
+matplotlib==3.3.3
+seaborn==0.11.1
