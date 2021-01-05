@@ -42,7 +42,7 @@ def get_id(url):
 
 
 def leaderboard(df,x1,x2,x3):
-	a4_dims=(10.7, 7.27)
+	a4_dims=(10.7, 6.27)
 	fig, ax1 = pyplot.subplots(figsize=a4_dims)
 
 	ax=sns.barplot(y = 'Author',
