@@ -1,3 +1,4 @@
+streamlit==1.12.8
 urllib3==1.26.2
 pandas==1.2.0
 google-api-python-client==1.12.8
