@@ -15,7 +15,7 @@ y = today.strftime("%Y")
 st.write("""### LEADERBOARD
  """)
 
-API_KEY= "AIzaSyCz6u8prEv6uF0Omm9oC4oYzkP3DWI6LLA"
+API_KEY= "AIzaSyCz6u8prEv6uF0Omm9*********"
 
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
